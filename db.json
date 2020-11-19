@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "11/19/2020",
-      "tech": "Glenn Marshall-Adams"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Changed HDMI cable on workstation 90",
       "attention": true,
-      "date": "11/19/2020",
-      "tech": "Gary Marshall-Adams"
+      "tech": "John Doe",
+      "date": "2020-11-19T13:57:55.188Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Party this friday",
       "attention": false,
-      "date": "11/19/2020",
-      "tech": "Louise Marshall"
+      "tech": "Sara Doe",
+      "date": "2020-11-19T13:58:10.376Z",
+      "id": 2
     }
   ],
   "techs": [
