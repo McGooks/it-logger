@@ -6,13 +6,6 @@
       "tech": "John Doe",
       "date": "2020-11-19T13:57:55.188Z",
       "id": 1
-    },
-    {
-      "message": "Party this friday",
-      "attention": false,
-      "tech": "Sara Doe",
-      "date": "2020-11-19T13:58:10.376Z",
-      "id": 2
     }
   ],
   "techs": [
