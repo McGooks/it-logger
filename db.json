@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Changed HDMI cable on workstation 90",
+      "id": 1,
+      "message": "Blue Roses 102",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2020-11-19T13:57:55.188Z",
-      "id": 1
+      "tech": "Jane Doe",
+      "date": "2020-11-19T14:43:45.972Z"
     }
   ],
   "techs": [
