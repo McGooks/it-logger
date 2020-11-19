@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { updateLog } from "../../actions/logActions";
+import TechSelectOptions from "../techs/TechSelectOptions"
 import { connect } from "react-redux";
 import PropTypes from 'prop-types'
 
@@ -63,9 +64,7 @@ const EditLogModal = ( {current, updateLog}) => {
               <option value="" disabled>
                 Select Technician
               </option>
-              <option value="John Doe">John Doe</option>
-              <option value="Jane Doe">Jane Doe</option>
-              <option value="Sara Doe">Sara Doe</option>
+              <TechSelectOptions/>
             </select>
           </div>
         </div>
